@@ -1,0 +1,50 @@
+{
+  "754369975": {
+    "id": 754369975,
+    "username": "",
+    "first_name": "",
+    "referredBy": null,
+    "referrals": [],
+    "points": 0,
+    "joinedChannel": true,
+    "joinDate": "2025-08-18T09:58:58.209+05:30",
+    "lastActive": "2025-08-18T09:58:58.450+05:30",
+    "totalWithdrawals": 0
+  },
+  "1035208031": {
+    "id": 1035208031,
+    "username": "",
+    "first_name": "",
+    "referredBy": 6994528708,
+    "referrals": [],
+    "points": 0,
+    "joinedChannel": false,
+    "joinDate": "2025-08-18T09:58:57.868+05:30",
+    "lastActive": "2025-08-18T09:58:58.567+05:30",
+    "totalWithdrawals": 0
+  },
+  "7313708004": {
+    "id": 7313708004,
+    "username": "",
+    "first_name": "",
+    "referredBy": 6994528708,
+    "referrals": [],
+    "points": 0,
+    "joinedChannel": false,
+    "joinDate": "2025-08-18T09:58:57.870+05:30",
+    "lastActive": "2025-08-18T09:58:57.876+05:30",
+    "totalWithdrawals": 0
+  },
+  "6994528708": {
+    "id": 6994528708,
+    "username": "its_soloz",
+    "first_name": "Its",
+    "referredBy": null,
+    "referrals": [],
+    "points": 0,
+    "joinedChannel": true,
+    "joinDate": "2025-08-18T09:58:57.873+05:30",
+    "lastActive": "2025-08-18T09:59:54.089+05:30",
+    "totalWithdrawals": 0
+  }
+}

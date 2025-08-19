@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "luxon": "^3.7.1",
+    "telegraf": "^4.16.3"
+  }
+}
